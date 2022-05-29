@@ -1,6 +1,6 @@
 # MyVision-MS-Engage-Project 
 * **Problem**: Develop an application to demonstrate application of Face Recognition technology.
-* **My idea**: In face-to-face social interactions, *blind and visually impaired persons* lack access to nonverbal cues like *facial expressions*, gestures and other general details such as *age*, *gender* and *race* which may lead to impaired interpersonal communication. 
+* **My idea**: In face-to-face social interactions, *blind and visually impaired persons* lack access to nonverbal cues like *facial expressions*, gestures and other general details such as *age*, *gender* and *race* which may lead to impaired interpersonal communication. This also raises security concerns for them if they could not differenciate between friends and strangers. But basic understanding about the person beforehand will only *improve their communication experience*.
 * **Solution**: Here is the design and implementation of a face detection and recognition system for the visually impaired. 
 Here, I attempted to build an application which gives *voice output to the user to facilitate interaction*
 * **Technology used**: Python, Opencv, Deepface, gTTs(Google-Text-To-Speech), Kivy, Pycharm IDE
