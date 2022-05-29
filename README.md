@@ -17,7 +17,10 @@ Clone the project and open on your IDE, click and run **MyVision.py**
 <img width="613" alt="image" src="https://user-images.githubusercontent.com/81632252/170880489-cc128e19-2b0b-4bcb-96e0-2c86028f7a3b.png">
 <img width="511" alt="image" src="https://user-images.githubusercontent.com/81632252/170880450-11ad98d4-df65-45fe-90f3-e1b912d8b0e4.png">
 
-
+### What this model can do?
+* This model can recognize following emotions - happy, sad, angry, disgust, fear, surprise, neutral.
+* This model recognizes following races - Asian, Indian, Black, White, Middle-Eastern, Latino-Hispanic
+* Accuracy - 97.35% (Deepface)
 
 ## References used
 * https://pypi.org/project/deepface/
