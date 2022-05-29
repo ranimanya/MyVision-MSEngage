@@ -5,7 +5,7 @@
 Here, I attempted to build a mobile application which gives *voice output to the user to facilittate interaction*
 * **Technology used**: Python, Opencv, Deepface, gTTs(Google-Text-To-Speech), Kivy-for mobile application, Pycharm IDE
 ## How to run?
-Check [here]requirements.txt for related dependencies.
+Check [here]requirements.txt[here] for related dependencies.
 Clone the project and open on your IDE, click and run **MyVision.py**
 
 
