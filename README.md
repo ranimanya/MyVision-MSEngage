@@ -3,7 +3,7 @@
 * **My idea**: In face-to-face social interactions, *blind and visually impaired persons* lack access to nonverbal cues like *facial expressions*, gestures and other general details such as *age*, *gender* and *race* which may lead to impaired interpersonal communication. 
 * **Solution**: Here is the design and implementation of a face detection and recognition system for the visually impaired. 
 Here, I attempted to build an application which gives *voice output to the user to facilitate interaction*
-* **Technology used**: Python, Opencv, Deepface, gTTs(Google-Text-To-Speech), Kivy-for mobile application, Pycharm IDE
+* **Technology used**: Python, Opencv, Deepface, gTTs(Google-Text-To-Speech), Kivy, Pycharm IDE
 ## How to run?
 Go to requirements.txt for related dependencies.
 Clone the project and open on your IDE, click and run **MyVision.py**
