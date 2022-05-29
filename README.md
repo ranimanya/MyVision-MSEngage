@@ -10,6 +10,9 @@ Clone the project and open on your IDE, click and run **MyVision.py**
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/81632252/170852115-3ee89dc3-5633-4a3b-8312-65475084bd5b.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/81632252/170852190-c4237307-e185-4741-be91-5dfe317a500c.png">
+<img width="616" alt="msengage22" src="https://user-images.githubusercontent.com/81632252/170880184-bfcf9d65-d77b-4550-b041-e0445c28b9aa.png">
+<img width="531" alt="msengage223" src="https://user-images.githubusercontent.com/81632252/170880188-79a2556d-286c-478e-82b8-210dedaccf29.png">
+
 
 ## References used
 * https://pypi.org/project/deepface/
