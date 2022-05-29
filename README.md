@@ -29,3 +29,4 @@ Here, I attempted to build an application which gives *voice output to the user 
 * https://pypi.org/project/deepface/
 * https://kivy.org/doc/stable/examples/index.html
 
+
