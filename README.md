@@ -12,6 +12,9 @@ Clone the project and open on your IDE, click and run **MyVision.py**
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/81632252/170852190-c4237307-e185-4741-be91-5dfe317a500c.png">
 <img width="616" alt="msengage22" src="https://user-images.githubusercontent.com/81632252/170880184-bfcf9d65-d77b-4550-b041-e0445c28b9aa.png">
 <img width="531" alt="msengage223" src="https://user-images.githubusercontent.com/81632252/170880188-79a2556d-286c-478e-82b8-210dedaccf29.png">
+<img width="511" alt="image" src="https://user-images.githubusercontent.com/81632252/170880440-ef865b4d-06aa-474f-8d57-4eec15a2f572.png">
+<img width="511" alt="image" src="https://user-images.githubusercontent.com/81632252/170880450-11ad98d4-df65-45fe-90f3-e1b912d8b0e4.png">
+
 
 
 ## References used
